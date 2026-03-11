@@ -11,6 +11,7 @@ LadoA = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine("ingrese el valor del Lado B");
 LadoB = Convert.ToDouble(Console.ReadLine());
+    
 
 Resultado = LadoA * LadoB;
 Console.WriteLine("El Resultado es : "+Resultado);
